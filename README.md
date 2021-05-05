@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stavros
 - 👀 I’m interested in python and networking
-- 🌱 I’m currently working as junior elecctrical enginner
+- 🌱 I’m currently working as junior electrical engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
